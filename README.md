@@ -262,10 +262,10 @@ Through scientific use of Newton's laws of physics, sensor fusion, kinematics, a
 
 ## References
 
-[Learn more about Law of Inertia:](https://stileapp.com/static/CLL%20handouts/Lesson_048_handout.pdf "Law of Inertia: Hands-free driving")
-/n
-[Learn more about Newtons Laws of Motion:](https://texasgateway.org/resource/newtons-three-laws-motion.com "Newton's Three Laws of Motion")
-[Science Buddies - Learn more about Newtons Laws of Motion:](https://www.sciencebuddies.org/blog/newton-laws-science-lessons.com "Science Buddies - About Newton's Laws of Motion")
-[Stanford University's EE259: Principles of Sensing for Autonomy:](https://ee259.stanford.edu.com "Stanford University's EE259: Principles of Sensing for Autonomy")
-[Makeblock - Arduino tutorial:](https://support.makeblock.com/hc/en-us/articles/1500004053721-Programming-mBot-Ranger-in-Arduino "Programming mBot Ranger in Arduino")
-[Arduino Coding Reference](https://docs.google.com/document/d/16uXDUmgN_9jM2sp_KGJtZZfQTpQ2-PzLDtjUFla_FcA/edit?tab=t.0#heading=h.7sudpr9ypkx "Makeblock Ranger Arduino Coding Reference") 
+- [Learn more about Law of Inertia:](https://stileapp.com/static/CLL%20handouts/Lesson_048_handout.pdf "Law of Inertia: Hands-free driving")
+- [Learn more about Newtons Laws of Motion:](https://texasgateway.org/resource/newtons-three-laws-motion.com "Newton's Three Laws of Motion")
+- [Science Buddies - Learn more about Newtons Laws of Motion:](https://www.sciencebuddies.org/blog/newton-laws-science-lessons.com "Science Buddies - About Newton's Laws of Motion")
+- [Stanford University's EE259: Principles of Sensing for Autonomy:](https://ee259.stanford.edu.com "Stanford University's EE259: Principles of Sensing for Autonomy")
+- [Makeblock - Arduino tutorial:](https://support.makeblock.com/hc/en-us/articles/1500004053721-Programming-mBot-Ranger-in-Arduino "Programming mBot Ranger in Arduino")
+- [Arduino Coding Reference](https://docs.google.com/document/d/16uXDUmgN_9jM2sp_KGJtZZfQTpQ2-PzLDtjUFla_FcA/edit?tab=t.0#heading=h.7sudpr9ypkx "Makeblock Ranger Arduino Coding Reference")
+- [Polaris_eFoundry_AGV_Repository](https://github.com/RAZA7909/Polaris_eFoundry_AGV_Repository)
