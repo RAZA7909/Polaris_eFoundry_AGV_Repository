@@ -25,23 +25,31 @@ Next we need to clone the Arduino code for this experiment:
 git clone https://github.com/RAZA7909/Polaris-eFoundry-AGV-Repository
 ```
 ```sh
-cd ~/user/documents/arduino/Polaris-eFoundry-AGV-Repository/AV_FollowLine_ObsAvoid_AudiAlert
+cd ~/user/documents/arduino/Polaris_eFoundry_AGV_Repository
 ```
 ```sh
 ls -lst
 ```
 
-You should see 3 files listed within this directory:
+You should see 1 files and 1 directory listed:
 
-- [] AV_FollowLine_ObsAvoid_AudioAlert.ino
-- [] AV_FollowLine_ObsAvoid_AudioAlert.h
+- [] Polaris_eFoundry_AGV_Repository
 - [] README.md
 
+navigate to the Polaris_eFoundry_AGV_Repository directory
+```sh
+cd Polaris_eFoundry_AGV_Repository
+```
+You should see 3 files listed:
+
+- [] Polaris_eFoundry_AGV_Repository.ino
+- [] Polaris_eFoundry_AGV_Repository.h
+- [] README.md
+- 
 Now we need to follow the Makeblock tutorial on setting up Ranger for Arduino:
 [Makeblock - Arduino tutorial:](https://support.makeblock.com/hc/en-us/articles/1500004053721-Programming-mBot-Ranger-in-Arduino "Programming mBot Ranger in Arduino")
 
 A good coding reference for the makeblock libraries can be found [here.](https://docs.google.com/document/d/16uXDUmgN_9jM2sp_KGJtZZfQTpQ2-PzLDtjUFla_FcA/edit?tab=t.0#heading=h.7sudpr9ypkx "Makeblock Ranger Arduino Coding Reference") 
-
 
 ### Code Explaination
 Open the `AV_FollowLine_ObsAvoid_AudioAlert.ino` file with Arduino. []
