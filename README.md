@@ -263,6 +263,7 @@ Through scientific use of Newton's laws of physics, sensor fusion, kinematics, a
 ## References
 
 [Learn more about Law of Inertia:](https://stileapp.com/static/CLL%20handouts/Lesson_048_handout.pdf "Law of Inertia: Hands-free driving")
+/n
 [Learn more about Newtons Laws of Motion:](https://texasgateway.org/resource/newtons-three-laws-motion.com "Newton's Three Laws of Motion")
 [Science Buddies - Learn more about Newtons Laws of Motion:](https://www.sciencebuddies.org/blog/newton-laws-science-lessons.com "Science Buddies - About Newton's Laws of Motion")
 [Stanford University's EE259: Principles of Sensing for Autonomy:](https://ee259.stanford.edu.com "Stanford University's EE259: Principles of Sensing for Autonomy")
